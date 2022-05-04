@@ -1,6 +1,10 @@
-# ontology_based_classification_system
+# Ontology-based classification system
 
-[<img src="./classifier.png" width="800">]()
+## Editor
 [<img src="./editor.png" width="800">]()
+## Knowledge base
 [<img src="./knowledge%20base.png" width="800">]()
+## Classifier
+[<img src="./classifier.png" width="800">]()
+## Reports
 [<img src="./reports.png" width="800">]()
