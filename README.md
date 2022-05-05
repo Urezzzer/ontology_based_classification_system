@@ -10,6 +10,10 @@
 [<img src="./reports.png" width="800">]()
 
 # How to
+## Backend setup
+```
+python app.py runserver
+```
 ## Project setup
 ```
 npm install
