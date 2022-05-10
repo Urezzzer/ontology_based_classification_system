@@ -33,11 +33,7 @@ def index():
             "id": ...,
             "feature_name": "...",
             "type": ...,
-            "value": {
-                "id": ...,
-                "feature_id": ...,
-                "value": ...
-            }
+            "value": ...
         },
         ...
     ]
