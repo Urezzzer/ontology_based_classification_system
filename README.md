@@ -2,7 +2,7 @@
 It might help people to classify in different applied fields where ml-solution is expencive or unavalaible. This system has explanaition subsystem as an advantage vs ml-model. It don't pretent to be the great idea, is just a try to formalize classification task.
 
 ### How to improve
-1. Use mangoDB instead of SQLite (allow to simplify the code, make it more readable)
+1. Use mongoDB instead of SQLite (allow to simplify the code, make it more readable)
 
 
 ## Editor
